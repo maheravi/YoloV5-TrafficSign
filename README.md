@@ -14,7 +14,8 @@ $ git clone https://github.com/maheravi/YoloV5-TrafficSign.git
 ```
 ## Dataset
 
-The Dataser provided by Aryan Garg.
+The dataset provided by Aryan Garg.
+
 You can download it form the link below or downloading usinge the code in YoloV5_Traffic_Sign.ipynb
 
 [Dataset link](https://drive.google.com/file/d/1gQD1OovQDyjMlUEWl6IEn2mzgS6KNppX/view)
