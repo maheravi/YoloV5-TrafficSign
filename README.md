@@ -4,7 +4,7 @@
 
 ## Instalation
 
-first clone the repository:
+clone the repository:
 
 $ git clone https://github.com/maheravi/YoloV5-TrafficSign.git
 
