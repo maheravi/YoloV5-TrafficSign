@@ -5,13 +5,13 @@
 ## Instalation
 
 clone the repository:
+```sh
+    $ git clone https://github.com/maheravi/YoloV5-TrafficSign.git
 
-$ git clone https://github.com/maheravi/YoloV5-TrafficSign.git
+    %cd YoloV5-TrafficSign
 
-%cd YoloV5-TrafficSign
-
-!pip install -U -r requirements.txt
-
+    !pip install -U -r requirements.txt
+   ```
 ## Dataset
 
 The Dataser provided by Aryan Garg.
